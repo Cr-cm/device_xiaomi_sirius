@@ -4,16 +4,16 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-# Inherit from sdm845-common
--include device/xiaomi/sdm845-common/BoardConfigCommon.mk
+# Inherit from sdm710-common
+-include device/xiaomi/sdm710-common/BoardConfigCommon.mk
 
-DEVICE_PATH := device/xiaomi/dipper
+DEVICE_PATH := device/xiaomi/sirius
 
 # Assert
-TARGET_OTA_ASSERT_DEVICE := dipper
+TARGET_OTA_ASSERT_DEVICE := sirius
 
 # Kernel
-TARGET_KERNEL_CONFIG := dipper_defconfig
+TARGET_KERNEL_CONFIG := sirius_defconfig
 
 # Inherit from the proprietary version
--include vendor/xiaomi/dipper/BoardConfigVendor.mk
+-include vendor/xiaomi/sirius/BoardConfigVendor.mk

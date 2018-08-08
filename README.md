@@ -1,9 +1,9 @@
 Copyright (C) 2018 Revolution OS
 
-Device configuration for Xiaomi Mi 8
+Device configuration for Xiaomi Mi 8 SE
 =========================================
 
-The Xiaomi Mi 8 (codenamed _"dipper"_) is a high-end smartphone from Xiaomi.
+The Xiaomi Mi 8 SE (codenamed _"sirius"_) is a high-end smartphone from Xiaomi.
 
 It was announced in May 2018. Release date was June 2018.
 
